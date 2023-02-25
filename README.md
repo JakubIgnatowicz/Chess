@@ -1,4 +1,4 @@
-# chess
+# Chess
 This is my main project, currently, where I use knowledge gained while working on snake to build chess from scratch. The main goal with this project is to check if I'm able to build it without internet or any other sources. I'm currently working on checking mechanic and the game is almost done. Main goal for now is to make it fully functional and then optimize it still without useing any third party help, and at the end see what my mistakes are and fix them. Below I post some things that I'm not satisfied with and need some work to be more optimal:
 
 I think that Kings class and its way to check if castle is possible is too complicated.
